@@ -6,12 +6,20 @@ My nickname is JC, I'm from Perú and I'm a data addict with a solid background 
 
 ## Skills
 
+
+- Python, SQL, and Data Modeling
+- AWS, Terraform, Docker, Snowflake
+- ETL/ELT and Real-Time Data Pipelines
+- Data Warehousing and Lakehouse Architectures
+- CDC, Kafka, Debezium, and Streaming Solutions
+
+<!--  
 * Some Python and SQL coding
 * ELT and ETL tools
 * AWS, Terraform, Docker
 * OLTP, OLAP, datalake, datawarehouse
 * Critical thinking, decision-making and problem solving skills
-* Special skills and experience in fast growing startups.
+* Special skills and experience in fast growing startups.-->
 
 ## Contact
 
